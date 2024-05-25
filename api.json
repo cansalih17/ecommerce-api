@@ -1,0 +1,437 @@
+[
+  {
+    "id": 1,
+    "name": "Black Automatic Watch",
+    "category": "Accessories",
+    "price": 169.99,
+    "discountedPrice": 199.99,
+    "rating": 4.9,
+    "numReviews": 98,
+    "image": "images/product1.png",
+    "isNew": false,
+    "isPopular": true,
+    "description": {
+      "features": [
+        {
+          "title": "Sleek and Stylish Design",
+          "content": "The Black Automatic Watch features a sleek and stylish design that complements any outfit. Its black stainless steel case and strap give it a modern and sophisticated look."
+        },
+        {
+          "title": "Precision Timekeeping",
+          "content": "Equipped with high-quality automatic movement, this watch ensures accurate and reliable timekeeping. Whether you're at work or enjoying leisure time, you can trust this watch to keep you on schedule."
+        },
+        {
+          "title": "Water Resistant",
+          "content": "With a water resistance rating of 50 meters, this watch is suitable for everyday wear and can withstand splashes and brief immersion in water."
+        }
+      ]
+    },
+    "tags": ["Watch", "Automatic", "Stainless Steel", "Water Resistant"],
+    "reviews": [
+      {
+        "id": 1,
+        "user": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely love this watch! It's elegant, durable, and keeps accurate time. The water resistance feature is a bonus."
+      },
+      {
+        "id": 2,
+        "user": "Alice Smith",
+        "rating": 4.5,
+        "comment": "Great value for the price. The design is sleek and modern, and it feels comfortable to wear. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Stainless Steel Smartwatch",
+    "category": "Electronics",
+    "price": 299.99,
+    "discountedPrice": 349.99,
+    "rating": 4.7,
+    "numReviews": 120,
+    "image": "images/product2.png",
+    "isNew": true,
+    "isPopular": true,
+    "description": {
+      "features": [
+        {
+          "title": "Advanced Smart Features",
+          "content": "The Stainless Steel Smartwatch comes packed with advanced features to enhance your daily life. From fitness tracking to notifications, this smartwatch has you covered."
+        },
+        {
+          "title": "Customizable Design",
+          "content": "With interchangeable bands and customizable watch faces, you can personalize the look of your smartwatch to match your style and mood."
+        },
+        {
+          "title": "Long Battery Life",
+          "content": "Enjoy extended usage with the long-lasting battery of this smartwatch. Spend less time charging and more time using your device on the go."
+        }
+      ]
+    },
+    "tags": [
+      "Smartwatch",
+      "Stainless Steel",
+      "Fitness Tracker",
+      "Notifications"
+    ],
+    "reviews": [
+      {
+        "id": 1,
+        "user": "Emily Johnson",
+        "rating": 4,
+        "comment": "Love the design and features, but sometimes the notifications can be a bit delayed. Overall, a great purchase!"
+      },
+      {
+        "id": 2,
+        "user": "Michael Brown",
+        "rating": 5,
+        "comment": "This smartwatch exceeded my expectations. The battery life is impressive, and it's comfortable to wear all day."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Leather Messenger Bag",
+    "category": "Bags",
+    "price": 89.99,
+    "discountedPrice": 109.99,
+    "rating": 4.8,
+    "numReviews": 85,
+    "image": "images/product3.png",
+    "isNew": false,
+    "isPopular": true,
+    "description": {
+      "features": [
+        {
+          "title": "High-Quality Materials",
+          "content": "Crafted from genuine leather, the Leather Messenger Bag is built to last. Its durable construction ensures that your belongings are protected wherever you go."
+        },
+        {
+          "title": "Spacious Interior",
+          "content": "With multiple compartments and pockets, this messenger bag offers ample storage space for your essentials. Stay organized and keep everything within easy reach."
+        },
+        {
+          "title": "Adjustable Strap",
+          "content": "The adjustable shoulder strap allows you to customize the fit for maximum comfort. Carry your bag with ease, whether you're commuting to work or exploring the city."
+        }
+      ]
+    },
+    "tags": ["Bag", "Leather", "Messenger", "Spacious"],
+    "reviews": [
+      {
+        "id": 1,
+        "user": "Sarah Thompson",
+        "rating": 5,
+        "comment": "Beautiful bag! The leather is soft and supple, and the craftsmanship is top-notch. I love all the compartments for organizing my belongings."
+      },
+      {
+        "id": 2,
+        "user": "David Wilson",
+        "rating": 4.5,
+        "comment": "Great quality for the price. The bag is sturdy and well-made, and the adjustable strap is a nice touch. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Wireless Bluetooth Earbuds",
+    "category": "Electronics",
+    "price": 79.99,
+    "discountedPrice": 99.99,
+    "rating": 4.5,
+    "numReviews": 150,
+    "image": "images/product4.png",
+    "isNew": true,
+    "isPopular": false,
+    "description": {
+      "features": [
+        {
+          "title": "True Wireless Technology",
+          "content": "Experience freedom with the Wireless Bluetooth Earbuds. Their true wireless design eliminates the hassle of tangled cords, allowing you to move freely."
+        },
+        {
+          "title": "Superior Sound Quality",
+          "content": "Enjoy immersive audio with crisp highs and deep bass. Whether you're listening to music or taking calls, these earbuds deliver exceptional sound clarity."
+        },
+        {
+          "title": "Long Battery Life",
+          "content": "With up to 20 hours of playback time on a single charge, these earbuds keep you connected throughout the day. The included charging case provides additional power on the go."
+        }
+      ]
+    },
+    "tags": ["Earbuds", "Bluetooth", "Wireless", "Sound Quality"],
+    "reviews": [
+      {
+        "id": 1,
+        "user": "Mark Johnson",
+        "rating": 4,
+        "comment": "Great sound quality and comfortable fit. However, the battery life could be better. Overall, a good value for the price."
+      },
+      {
+        "id": 2,
+        "user": "Jennifer White",
+        "rating": 5,
+        "comment": "These earbuds exceeded my expectations. The sound is clear and balanced, and they stay in place during workouts. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Men's Classic Leather Belt",
+    "category": "Accessories",
+    "price": 49.99,
+    "discountedPrice": 59.99,
+    "rating": 4.6,
+    "numReviews": 110,
+    "image": "images/product5.png",
+    "isNew": false,
+    "isPopular": true,
+    "description": {
+      "features": [
+        {
+          "title": "Timeless Design",
+          "content": "The Men's Classic Leather Belt features a timeless design that never goes out of style. Its simple yet elegant design pairs perfectly with any outfit."
+        },
+        {
+          "title": "Genuine Leather Construction",
+          "content": "Crafted from genuine leather, this belt is both durable and stylish. Its high-quality construction ensures long-lasting wear and timeless appeal."
+        },
+        {
+          "title": "Adjustable Fit",
+          "content": "The adjustable buckle allows you to find the perfect fit for maximum comfort. Whether you're dressing up for a formal occasion or keeping it casual, this belt is the perfect accessory."
+        }
+      ]
+    },
+    "tags": ["Belt", "Leather", "Classic", "Adjustable"],
+    "reviews": [
+      {
+        "id": 1,
+        "user": "Rachel Davis",
+        "rating": 5,
+        "comment": "Love this belt! It's simple yet stylish, and the leather is high-quality. The adjustable fit is perfect for ensuring a comfortable fit."
+      },
+      {
+        "id": 2,
+        "user": "Robert Martinez",
+        "rating": 4.5,
+        "comment": "Great value for the price. The belt looks and feels expensive, and the adjustable buckle is convenient. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Portable Power Bank",
+    "category": "Electronics",
+    "price": 39.99,
+    "discountedPrice": 49.99,
+    "rating": 4.4,
+    "numReviews": 80,
+    "image": "images/product6.png",
+    "isNew": false,
+    "isPopular": false,
+    "description": {
+      "features": [
+        {
+          "title": "Compact and Portable",
+          "content": "The Portable Power Bank is compact and lightweight, making it easy to carry with you wherever you go. Slip it into your pocket or bag for convenient charging on the go."
+        },
+        {
+          "title": "High-Capacity Battery",
+          "content": "With a high-capacity battery, this power bank provides multiple charges for your devices. Stay powered up and connected throughout the day without worrying about running out of battery."
+        },
+        {
+          "title": "Universal Compatibility",
+          "content": "Compatible with a wide range of devices, including smartphones, tablets, and more, this power bank is your go-to solution for staying charged and connected on the go."
+        }
+      ]
+    },
+    "tags": ["Power Bank", "Portable", "Compact", "High Capacity"],
+    "reviews": [
+      {
+        "id": 1,
+        "user": "Daniel Brown",
+        "rating": 4,
+        "comment": "Great portable charger for the price. It's compact and lightweight, making it perfect for traveling. However, the charging speed could be faster."
+      },
+      {
+        "id": 2,
+        "user": "Jessica Miller",
+        "rating": 5,
+        "comment": "Love this power bank! It's small enough to carry in my purse, and it charges my phone quickly. Definitely a must-have for on-the-go charging."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Women's Leather Wallet",
+    "category": "Accessories",
+    "price": 79.99,
+    "discountedPrice": 89.99,
+    "rating": 4.7,
+    "numReviews": 95,
+    "image": "images/product7.png",
+    "isNew": false,
+    "isPopular": true,
+    "description": {
+      "features": [
+        {
+          "title": "Premium Leather Construction",
+          "content": "Crafted from premium leather, the Women's Leather Wallet offers both style and durability. Its supple texture and elegant design make it the perfect accessory for any occasion."
+        },
+        {
+          "title": "Organized Interior",
+          "content": "With multiple card slots, compartments, and a zippered coin pocket, this wallet keeps your essentials organized and easily accessible. Say goodbye to rummaging through your bag for your cards and cash."
+        },
+        {
+          "title": "Slim and Compact",
+          "content": "The slim design of this wallet allows it to fit comfortably in your pocket or bag without adding bulk. Carry your essentials in style without sacrificing space."
+        }
+      ]
+    },
+    "tags": ["Wallet", "Leather", "Women's", "Organized"],
+    "reviews": [
+      {
+        "id": 1,
+        "user": "Laura Wilson",
+        "rating": 5,
+        "comment": "Beautiful wallet! The leather is soft and luxurious, and the craftsmanship is excellent. I love all the compartments for organizing my cards and cash."
+      },
+      {
+        "id": 2,
+        "user": "Christopher Taylor",
+        "rating": 4.5,
+        "comment": "Great quality wallet for the price. It's slim and lightweight, yet holds everything I need. The zippered coin pocket is a nice touch."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Cotton Casual T-Shirt",
+    "category": "Clothing",
+    "price": 29.99,
+    "discountedPrice": 39.99,
+    "rating": 4.3,
+    "numReviews": 70,
+    "image": "images/product8.png",
+    "isNew": false,
+    "isPopular": false,
+    "description": {
+      "features": [
+        {
+          "title": "Soft and Comfortable",
+          "content": "The Cotton Casual T-Shirt is made from soft and breathable cotton fabric, ensuring all-day comfort. Its lightweight construction makes it the perfect choice for everyday wear."
+        },
+        {
+          "title": "Versatile Style",
+          "content": "With its classic crew neck design and relaxed fit, this t-shirt pairs effortlessly with jeans, shorts, or skirts. Dress it up or down for any occasion with ease."
+        },
+        {
+          "title": "Easy Care",
+          "content": "This t-shirt is machine washable for easy care and maintenance. Simply toss it in the washing machine and tumble dry for a hassle-free laundry experience."
+        }
+      ]
+    },
+    "tags": ["T-Shirt", "Cotton", "Casual", "Versatile"],
+    "reviews": [
+      {
+        "id": 1,
+        "user": "Sophia Clark",
+        "rating": 4,
+        "comment": "Comfortable shirt, but it shrunk a bit after washing. Make sure to size up if you're in between sizes. Otherwise, great value for the price."
+      },
+      {
+        "id": 2,
+        "user": "William Harris",
+        "rating": 4.5,
+        "comment": "Nice t-shirt for everyday wear. The fabric is soft and lightweight, perfect for summer. The fit is true to size."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Men's Sport Watch",
+    "category": "Accessories",
+    "price": 129.99,
+    "discountedPrice": 149.99,
+    "rating": 4.9,
+    "numReviews": 105,
+    "image": "images/product9.png",
+    "isNew": false,
+    "isPopular": true,
+    "description": {
+      "features": [
+        {
+          "title": "Sporty and Durable Design",
+          "content": "The Men's Sport Watch features a sporty and durable design that's perfect for active lifestyles. Its rugged construction ensures that it can withstand the rigors of daily wear."
+        },
+        {
+          "title": "Chronograph Functionality",
+          "content": "With chronograph functionality, this watch allows you to track elapsed time with precision. Whether you're timing laps at the track or monitoring workout intervals, this watch has you covered."
+        },
+        {
+          "title": "Water Resistant",
+          "content": "With a water resistance rating of 100 meters, this watch is suitable for swimming and snorkeling. Take it with you on your next aquatic adventure without worrying about water damage."
+        }
+      ]
+    },
+    "tags": ["Watch", "Sport", "Chronograph", "Water Resistant"],
+    "reviews": [
+      {
+        "id": 1,
+        "user": "Olivia Anderson",
+        "rating": 5,
+        "comment": "Love this watch! It's durable, stylish, and functional. The chronograph feature is a nice touch, and it's water-resistant, which is perfect for outdoor activities."
+      },
+      {
+        "id": 2,
+        "user": "Matthew Wilson",
+        "rating": 5,
+        "comment": "Great watch for the price. The build quality is excellent, and it looks more expensive than it is. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Vintage Leather Backpack",
+    "category": "Bags",
+    "price": 109.99,
+    "discountedPrice": 129.99,
+    "rating": 4.8,
+    "numReviews": 88,
+    "image": "images/product10.png",
+    "isNew": false,
+    "isPopular": true,
+    "description": {
+      "features": [
+        {
+          "title": "Vintage-Inspired Design",
+          "content": "The Vintage Leather Backpack features a timeless design inspired by classic backpacks of the past. Its vintage charm adds character to any outfit, whether you're exploring the city or heading to class."
+        },
+        {
+          "title": "Spacious Interior",
+          "content": "With multiple compartments and pockets, this backpack offers ample storage space for your belongings. Stay organized and keep everything within easy reach, whether you're commuting to work or traveling."
+        },
+        {
+          "title": "Adjustable Straps",
+          "content": "The adjustable shoulder straps allow you to customize the fit for maximum comfort. Carry your backpack with ease, whether you're wearing it over one shoulder or as a traditional backpack."
+        }
+      ]
+    },
+    "tags": ["Backpack", "Vintage", "Leather", "Spacious"],
+    "reviews": [
+      {
+        "id": 1,
+        "user": "Sophie Johnson",
+        "rating": 5,
+        "comment": "Beautiful backpack! The leather is soft and supple, and the vintage design is charming. It's spacious enough to fit all my essentials without feeling bulky."
+      },
+      {
+        "id": 2,
+        "user": "Nathan Thompson",
+        "rating": 4.5,
+        "comment": "Great quality backpack for the price. The adjustable straps are comfortable, and the interior compartments keep me organized. Definitely recommend!"
+      }
+    ]
+  }
+]
