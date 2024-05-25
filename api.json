@@ -40,6 +40,13 @@
         "rating": 4.5,
         "comment": "Great value for the price. The design is sleek and modern, and it feels comfortable to wear. Highly recommend!"
       }
+    ],
+    "sizes": [
+      { "label": "S", "selected": true, "disabled": false },
+      { "label": "M", "selected": false, "disabled": false },
+      { "label": "L", "selected": false, "disabled": false },
+      { "label": "XL", "selected": false, "disabled": false },
+      { "label": "2X", "selected": false, "disabled": true }
     ]
   },
   {
@@ -69,12 +76,7 @@
         }
       ]
     },
-    "tags": [
-      "Smartwatch",
-      "Stainless Steel",
-      "Fitness Tracker",
-      "Notifications"
-    ],
+    "tags": ["Smartwatch", "Stainless Steel", "Fitness Tracker", "Notifications"],
     "reviews": [
       {
         "id": 1,
@@ -88,6 +90,13 @@
         "rating": 5,
         "comment": "This smartwatch exceeded my expectations. The battery life is impressive, and it's comfortable to wear all day."
       }
+    ],
+    "sizes": [
+      { "label": "S", "selected": true, "disabled": false },
+      { "label": "M", "selected": false, "disabled": false },
+      { "label": "L", "selected": false, "disabled": false },
+      { "label": "XL", "selected": false, "disabled": false },
+      { "label": "2X", "selected": false, "disabled": true }
     ]
   },
   {
@@ -131,6 +140,13 @@
         "rating": 4.5,
         "comment": "Great quality for the price. The bag is sturdy and well-made, and the adjustable strap is a nice touch. Highly recommend!"
       }
+    ],
+    "sizes": [
+      { "label": "S", "selected": true, "disabled": false },
+      { "label": "M", "selected": false, "disabled": false },
+      { "label": "L", "selected": false, "disabled": false },
+      { "label": "XL", "selected": false, "disabled": false },
+      { "label": "2X", "selected": false, "disabled": true }
     ]
   },
   {
@@ -174,6 +190,13 @@
         "rating": 5,
         "comment": "These earbuds exceeded my expectations. The sound is clear and balanced, and they stay in place during workouts. Highly recommend!"
       }
+    ],
+    "sizes": [
+      { "label": "S", "selected": true, "disabled": false },
+      { "label": "M", "selected": false, "disabled": false },
+      { "label": "L", "selected": false, "disabled": false },
+      { "label": "XL", "selected": false, "disabled": false },
+      { "label": "2X", "selected": false, "disabled": true }
     ]
   },
   {
@@ -191,15 +214,15 @@
       "features": [
         {
           "title": "Timeless Design",
-          "content": "The Men's Classic Leather Belt features a timeless design that never goes out of style. Its simple yet elegant design pairs perfectly with any outfit."
+          "content": "The Men's Classic Leather Belt features a timeless design that never goes out of style. Its sleek and simple appearance makes it a versatile accessory for any outfit."
         },
         {
-          "title": "Genuine Leather Construction",
-          "content": "Crafted from genuine leather, this belt is both durable and stylish. Its high-quality construction ensures long-lasting wear and timeless appeal."
+          "title": "Premium Leather",
+          "content": "Crafted from premium leather, this belt offers durability and a luxurious feel. It's designed to withstand daily wear and provide long-lasting quality."
         },
         {
           "title": "Adjustable Fit",
-          "content": "The adjustable buckle allows you to find the perfect fit for maximum comfort. Whether you're dressing up for a formal occasion or keeping it casual, this belt is the perfect accessory."
+          "content": "The belt comes with multiple holes and an adjustable buckle, allowing you to achieve the perfect fit for your waist size."
         }
       ]
     },
@@ -207,231 +230,277 @@
     "reviews": [
       {
         "id": 1,
-        "user": "Rachel Davis",
-        "rating": 5,
-        "comment": "Love this belt! It's simple yet stylish, and the leather is high-quality. The adjustable fit is perfect for ensuring a comfortable fit."
+        "user": "Daniel Lewis",
+        "rating": 4.5,
+        "comment": "Good quality belt with a classic look. The leather feels premium, and it's easy to adjust. Happy with my purchase!"
       },
       {
         "id": 2,
-        "user": "Robert Martinez",
-        "rating": 4.5,
-        "comment": "Great value for the price. The belt looks and feels expensive, and the adjustable buckle is convenient. Highly recommend!"
+        "user": "Sophia Martinez",
+        "rating": 4,
+        "comment": "Stylish and well-made. The only downside is that it runs a bit large, so you might need to choose a size smaller."
       }
+    ],
+    "sizes": [
+      { "label": "S", "selected": true, "disabled": false },
+      { "label": "M", "selected": false, "disabled": false },
+      { "label": "L", "selected": false, "disabled": false },
+      { "label": "XL", "selected": false, "disabled": false },
+      { "label": "2X", "selected": false, "disabled": true }
     ]
   },
   {
     "id": 6,
-    "name": "Portable Power Bank",
-    "category": "Electronics",
-    "price": 39.99,
-    "discountedPrice": 49.99,
-    "rating": 4.4,
-    "numReviews": 80,
+    "name": "Eco-Friendly Water Bottle",
+    "category": "Home & Kitchen",
+    "price": 19.99,
+    "discountedPrice": 24.99,
+    "rating": 4.8,
+    "numReviews": 140,
     "image": "images/product6.png",
-    "isNew": false,
+    "isNew": true,
     "isPopular": false,
     "description": {
       "features": [
         {
-          "title": "Compact and Portable",
-          "content": "The Portable Power Bank is compact and lightweight, making it easy to carry with you wherever you go. Slip it into your pocket or bag for convenient charging on the go."
+          "title": "Sustainable Material",
+          "content": "Made from BPA-free, eco-friendly materials, the Eco-Friendly Water Bottle is safe for you and the environment. Reduce plastic waste and stay hydrated in style."
         },
         {
-          "title": "High-Capacity Battery",
-          "content": "With a high-capacity battery, this power bank provides multiple charges for your devices. Stay powered up and connected throughout the day without worrying about running out of battery."
+          "title": "Leak-Proof Design",
+          "content": "The water bottle features a leak-proof design to prevent spills and leaks. Whether you're at the gym, office, or on the go, you can carry it with confidence."
         },
         {
-          "title": "Universal Compatibility",
-          "content": "Compatible with a wide range of devices, including smartphones, tablets, and more, this power bank is your go-to solution for staying charged and connected on the go."
+          "title": "Easy to Clean",
+          "content": "With its wide mouth opening, this water bottle is easy to clean and fill. It's also dishwasher safe for added convenience."
         }
       ]
     },
-    "tags": ["Power Bank", "Portable", "Compact", "High Capacity"],
+    "tags": ["Water Bottle", "Eco-Friendly", "Leak-Proof", "BPA-Free"],
     "reviews": [
       {
         "id": 1,
-        "user": "Daniel Brown",
-        "rating": 4,
-        "comment": "Great portable charger for the price. It's compact and lightweight, making it perfect for traveling. However, the charging speed could be faster."
+        "user": "Olivia Martinez",
+        "rating": 5,
+        "comment": "Fantastic water bottle! It's sturdy, leak-proof, and the eco-friendly material is a huge plus. I use it every day."
       },
       {
         "id": 2,
-        "user": "Jessica Miller",
-        "rating": 5,
-        "comment": "Love this power bank! It's small enough to carry in my purse, and it charges my phone quickly. Definitely a must-have for on-the-go charging."
+        "user": "James Anderson",
+        "rating": 4.5,
+        "comment": "Great bottle for the price. It keeps my water cold and doesn't leak. The only minor issue is that it's a bit bulky."
       }
+    ],
+    "sizes": [
+      { "label": "S", "selected": true, "disabled": false },
+      { "label": "M", "selected": false, "disabled": false },
+      { "label": "L", "selected": false, "disabled": false },
+      { "label": "XL", "selected": false, "disabled": false },
+      { "label": "2X", "selected": false, "disabled": true }
     ]
   },
   {
     "id": 7,
-    "name": "Women's Leather Wallet",
-    "category": "Accessories",
-    "price": 79.99,
-    "discountedPrice": 89.99,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 59.99,
+    "discountedPrice": 79.99,
     "rating": 4.7,
     "numReviews": 95,
     "image": "images/product7.png",
-    "isNew": false,
-    "isPopular": true,
-    "description": {
-      "features": [
-        {
-          "title": "Premium Leather Construction",
-          "content": "Crafted from premium leather, the Women's Leather Wallet offers both style and durability. Its supple texture and elegant design make it the perfect accessory for any occasion."
-        },
-        {
-          "title": "Organized Interior",
-          "content": "With multiple card slots, compartments, and a zippered coin pocket, this wallet keeps your essentials organized and easily accessible. Say goodbye to rummaging through your bag for your cards and cash."
-        },
-        {
-          "title": "Slim and Compact",
-          "content": "The slim design of this wallet allows it to fit comfortably in your pocket or bag without adding bulk. Carry your essentials in style without sacrificing space."
-        }
-      ]
-    },
-    "tags": ["Wallet", "Leather", "Women's", "Organized"],
-    "reviews": [
-      {
-        "id": 1,
-        "user": "Laura Wilson",
-        "rating": 5,
-        "comment": "Beautiful wallet! The leather is soft and luxurious, and the craftsmanship is excellent. I love all the compartments for organizing my cards and cash."
-      },
-      {
-        "id": 2,
-        "user": "Christopher Taylor",
-        "rating": 4.5,
-        "comment": "Great quality wallet for the price. It's slim and lightweight, yet holds everything I need. The zippered coin pocket is a nice touch."
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "name": "Cotton Casual T-Shirt",
-    "category": "Clothing",
-    "price": 29.99,
-    "discountedPrice": 39.99,
-    "rating": 4.3,
-    "numReviews": 70,
-    "image": "images/product8.png",
-    "isNew": false,
+    "isNew": true,
     "isPopular": false,
     "description": {
       "features": [
         {
-          "title": "Soft and Comfortable",
-          "content": "The Cotton Casual T-Shirt is made from soft and breathable cotton fabric, ensuring all-day comfort. Its lightweight construction makes it the perfect choice for everyday wear."
+          "title": "Portable Design",
+          "content": "The Bluetooth Speaker is compact and lightweight, making it easy to take with you wherever you go. Enjoy your music on the go with this portable speaker."
         },
         {
-          "title": "Versatile Style",
-          "content": "With its classic crew neck design and relaxed fit, this t-shirt pairs effortlessly with jeans, shorts, or skirts. Dress it up or down for any occasion with ease."
+          "title": "High-Quality Sound",
+          "content": "Experience high-quality sound with rich bass and clear treble. This speaker delivers impressive audio performance, perfect for any setting."
         },
         {
-          "title": "Easy Care",
-          "content": "This t-shirt is machine washable for easy care and maintenance. Simply toss it in the washing machine and tumble dry for a hassle-free laundry experience."
+          "title": "Long Battery Life",
+          "content": "With up to 12 hours of playtime on a single charge, you can keep the music going all day long. The built-in rechargeable battery ensures you never run out of power."
         }
       ]
     },
-    "tags": ["T-Shirt", "Cotton", "Casual", "Versatile"],
+    "tags": ["Speaker", "Bluetooth", "Portable", "High-Quality Sound"],
     "reviews": [
       {
         "id": 1,
-        "user": "Sophia Clark",
-        "rating": 4,
-        "comment": "Comfortable shirt, but it shrunk a bit after washing. Make sure to size up if you're in between sizes. Otherwise, great value for the price."
+        "user": "Chris Lee",
+        "rating": 5,
+        "comment": "Amazing speaker! The sound quality is fantastic, and it's very portable. I take it with me everywhere."
       },
       {
         "id": 2,
-        "user": "William Harris",
-        "rating": 4.5,
-        "comment": "Nice t-shirt for everyday wear. The fabric is soft and lightweight, perfect for summer. The fit is true to size."
+        "user": "Anna Harris",
+        "rating": 4,
+        "comment": "Good speaker for the price. The sound is clear, and the battery life is decent. It could be a bit louder, but overall, I'm satisfied."
       }
+    ],
+    "sizes": [
+      { "label": "S", "selected": true, "disabled": false },
+      { "label": "M", "selected": false, "disabled": false },
+      { "label": "L", "selected": false, "disabled": false },
+      { "label": "XL", "selected": false, "disabled": false },
+      { "label": "2X", "selected": false, "disabled": true }
     ]
   },
   {
-    "id": 9,
-    "name": "Men's Sport Watch",
-    "category": "Accessories",
-    "price": 129.99,
-    "discountedPrice": 149.99,
-    "rating": 4.9,
-    "numReviews": 105,
-    "image": "images/product9.png",
+    "id": 8,
+    "name": "Stainless Steel Travel Mug",
+    "category": "Home & Kitchen",
+    "price": 25.99,
+    "discountedPrice": 29.99,
+    "rating": 4.6,
+    "numReviews": 80,
+    "image": "images/product8.png",
     "isNew": false,
     "isPopular": true,
     "description": {
       "features": [
         {
-          "title": "Sporty and Durable Design",
-          "content": "The Men's Sport Watch features a sporty and durable design that's perfect for active lifestyles. Its rugged construction ensures that it can withstand the rigors of daily wear."
+          "title": "Durable Construction",
+          "content": "The Stainless Steel Travel Mug is built to last. Its durable construction ensures it can withstand daily use and keeps your drinks at the perfect temperature."
         },
         {
-          "title": "Chronograph Functionality",
-          "content": "With chronograph functionality, this watch allows you to track elapsed time with precision. Whether you're timing laps at the track or monitoring workout intervals, this watch has you covered."
+          "title": "Leak-Proof Lid",
+          "content": "The travel mug features a leak-proof lid to prevent spills and leaks. Enjoy your favorite beverages on the go without any mess."
         },
         {
-          "title": "Water Resistant",
-          "content": "With a water resistance rating of 100 meters, this watch is suitable for swimming and snorkeling. Take it with you on your next aquatic adventure without worrying about water damage."
+          "title": "Easy to Clean",
+          "content": "With its wide mouth opening, this travel mug is easy to clean and fill. It's also dishwasher safe for added convenience."
         }
       ]
     },
-    "tags": ["Watch", "Sport", "Chronograph", "Water Resistant"],
+    "tags": ["Travel Mug", "Stainless Steel", "Leak-Proof", "Durable"],
     "reviews": [
       {
         "id": 1,
-        "user": "Olivia Anderson",
-        "rating": 5,
-        "comment": "Love this watch! It's durable, stylish, and functional. The chronograph feature is a nice touch, and it's water-resistant, which is perfect for outdoor activities."
+        "user": "Rachel Clark",
+        "rating": 4.5,
+        "comment": "Great travel mug! It keeps my coffee hot for hours and doesn't leak. The only downside is that it's a bit heavy."
       },
       {
         "id": 2,
-        "user": "Matthew Wilson",
-        "rating": 5,
-        "comment": "Great watch for the price. The build quality is excellent, and it looks more expensive than it is. Highly recommend!"
+        "user": "Brian Walker",
+        "rating": 4,
+        "comment": "Solid travel mug for the price. The stainless steel is sturdy, and it keeps my drinks hot or cold for a long time. Highly recommend!"
       }
+    ],
+    "sizes": [
+      { "label": "S", "selected": true, "disabled": false },
+      { "label": "M", "selected": false, "disabled": false },
+      { "label": "L", "selected": false, "disabled": false },
+      { "label": "XL", "selected": false, "disabled": false },
+      { "label": "2X", "selected": false, "disabled": true }
+    ]
+  },
+    {
+    "id": 9,
+    "name": "Noise-Cancelling Headphones",
+    "category": "Electronics",
+    "price": 129.99,
+    "discountedPrice": 149.99,
+    "rating": 4.8,
+    "numReviews": 100,
+    "image": "images/product9.png",
+    "isNew": true,
+    "isPopular": true,
+    "description": {
+      "features": [
+        {
+          "title": "Active Noise Cancellation",
+          "content": "The Noise-Cancelling Headphones feature active noise cancellation technology to block out unwanted noise. Enjoy your music or podcasts without distractions."
+        },
+        {
+          "title": "Comfortable Fit",
+          "content": "With soft ear cushions and an adjustable headband, these headphones provide a comfortable fit for extended listening sessions."
+        },
+        {
+          "title": "Long Battery Life",
+          "content": "Enjoy up to 30 hours of playback time on a single charge. The headphones also come with a quick charge feature for added convenience."
+        },
+        {
+          "title": "Convenient Controls",
+          "content": "Easily control your music, calls, and noise cancellation settings with the intuitive onboard controls. Adjust volume, skip tracks, and activate your voice assistant with the touch of a button."
+        }
+      ]
+    },
+    "tags": ["Headphones", "Noise-Cancelling", "Wireless", "Comfortable Fit"],
+    "reviews": [
+      {
+        "id": 1,
+        "user": "Robert Garcia",
+        "rating": 5,
+        "comment": "These headphones are amazing! The noise cancellation works like a charm, and they're so comfortable to wear. I use them every day."
+      },
+      {
+        "id": 2,
+        "user": "Jessica Taylor",
+        "rating": 4.5,
+        "comment": "Great sound quality and noise cancellation. They're a bit pricey, but definitely worth the investment for the comfort and performance."
+      }
+    ],
+    "sizes": [
+      { "label": "S", "selected": true, "disabled": false },
+      { "label": "M", "selected": false, "disabled": false },
+      { "label": "L", "selected": false, "disabled": false },
+      { "label": "XL", "selected": false, "disabled": false },
+      { "label": "2X", "selected": false, "disabled": true }
     ]
   },
   {
     "id": 10,
-    "name": "Vintage Leather Backpack",
-    "category": "Bags",
-    "price": 109.99,
-    "discountedPrice": 129.99,
-    "rating": 4.8,
-    "numReviews": 88,
+    "name": "Portable Power Bank",
+    "category": "Electronics",
+    "price": 39.99,
+    "discountedPrice": 49.99,
+    "rating": 4.7,
+    "numReviews": 90,
     "image": "images/product10.png",
     "isNew": false,
     "isPopular": true,
     "description": {
       "features": [
         {
-          "title": "Vintage-Inspired Design",
-          "content": "The Vintage Leather Backpack features a timeless design inspired by classic backpacks of the past. Its vintage charm adds character to any outfit, whether you're exploring the city or heading to class."
+          "title": "High-Capacity Battery",
+          "content": "The Portable Power Bank features a high-capacity battery that can charge your devices multiple times on a single charge. Never run out of power when you're on the go."
         },
         {
-          "title": "Spacious Interior",
-          "content": "With multiple compartments and pockets, this backpack offers ample storage space for your belongings. Stay organized and keep everything within easy reach, whether you're commuting to work or traveling."
+          "title": "Fast Charging Technology",
+          "content": "With fast charging technology, this power bank delivers quick and efficient charging for your devices. Spend less time waiting and more time using your devices."
         },
         {
-          "title": "Adjustable Straps",
-          "content": "The adjustable shoulder straps allow you to customize the fit for maximum comfort. Carry your backpack with ease, whether you're wearing it over one shoulder or as a traditional backpack."
+          "title": "Compact and Portable",
+          "content": "The slim and lightweight design makes this power bank easy to carry in your pocket or bag. Stay powered up wherever you are with this portable charger."
         }
       ]
     },
-    "tags": ["Backpack", "Vintage", "Leather", "Spacious"],
+    "tags": ["Power Bank", "Portable", "Fast Charging", "High-Capacity"],
     "reviews": [
       {
         "id": 1,
-        "user": "Sophie Johnson",
+        "user": "Kevin Adams",
         "rating": 5,
-        "comment": "Beautiful backpack! The leather is soft and supple, and the vintage design is charming. It's spacious enough to fit all my essentials without feeling bulky."
+        "comment": "Great power bank! It's compact, lightweight, and holds a charge for a long time. Perfect for travel or emergencies."
       },
       {
         "id": 2,
-        "user": "Nathan Thompson",
+        "user": "Amanda Wilson",
         "rating": 4.5,
-        "comment": "Great quality backpack for the price. The adjustable straps are comfortable, and the interior compartments keep me organized. Definitely recommend!"
+        "comment": "Excellent value for the price. It charges my devices quickly and is small enough to take anywhere. Highly recommend!"
       }
+    ],
+    "sizes": [
+      { "label": "S", "selected": true, "disabled": false },
+      { "label": "M", "selected": false, "disabled": false },
+      { "label": "L", "selected": false, "disabled": false },
+      { "label": "XL", "selected": false, "disabled": false },
+      { "label": "2X", "selected": false, "disabled": true }
     ]
   }
 ]
