@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "cargo": 9.99,
     "name": "Black Automatic Watch",
     "category": "Accessories",
     "price": 169.99,
@@ -101,6 +102,7 @@
   },
   {
     "id": 3,
+    "cargo": 9.99,
     "name": "Leather Messenger Bag",
     "category": "Bags",
     "price": 89.99,
@@ -301,6 +303,7 @@
   },
   {
     "id": 7,
+    "cargo": 9.99,
     "name": "Bluetooth Speaker",
     "category": "Electronics",
     "price": 59.99,
@@ -455,6 +458,7 @@
   },
   {
     "id": 10,
+    "cargo": 9.99,
     "name": "Portable Power Bank",
     "category": "Electronics",
     "price": 39.99,
